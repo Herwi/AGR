@@ -1,2 +1,2 @@
-# ALG
+# AGR
 Algorytmy grafowe
